@@ -24,3 +24,5 @@
 ## Notes
 - Users can view all notes and job details.
 - Users can delete their own notes.
+- Users can Create notes or leave messages about a job
+- 
